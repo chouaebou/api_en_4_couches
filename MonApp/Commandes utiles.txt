@@ -1,0 +1,7 @@
+1. Créer la BDD et migrer les tables:
+-------------------------------------
+	Add-Migration InitialCreate -OutputDir Data/Migrations
+
+2. Créer la BDD:
+----------------
+	Update-Database
