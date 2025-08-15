@@ -1,0 +1,4 @@
+1. Utiliser les dépendences
+2. Respecter SRP (Single Responsability Principle)
+3. Ne pas faire communiquer directement l'API et la BDD
+4. Utiliser des interfaces pour découpler l'infra

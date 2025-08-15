@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonApp.Domaine", "MonApp.Domaine\MonApp.Domaine.csproj", "{AE882CC7-6699-4990-B9D3-281CA4D08A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonApp.Application", "MonApp.Application\MonApp.Application.csproj", "{B66AEB49-3E17-4EA1-A67C-70486A0EF361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonApp.Infrastructure", "MonApp.Infrastructure\MonApp.Infrastructure.csproj", "{7493EB1E-6B84-44EE-B1F4-BC6DFD767E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonApp.API", "MonApp.API\MonApp.API.csproj", "{8D52D94C-F99F-44D3-A7DF-97FB1E237787}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{F9F3C5B2-4DF0-46B7-95D3-BABFD409BE07}"
+	ProjectSection(SolutionItems) = preProject
+		..\4 couches principales.JPG = ..\4 couches principales.JPG
+		..\Avanatages.JPG = ..\Avanatages.JPG
+		Bonnes pratiques.txt = Bonnes pratiques.txt
+		Commandes utiles.txt = Commandes utiles.txt
+		Données exemple.txt = Données exemple.txt
+		Source.txt = Source.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE882CC7-6699-4990-B9D3-281CA4D08A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE882CC7-6699-4990-B9D3-281CA4D08A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE882CC7-6699-4990-B9D3-281CA4D08A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE882CC7-6699-4990-B9D3-281CA4D08A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66AEB49-3E17-4EA1-A67C-70486A0EF361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66AEB49-3E17-4EA1-A67C-70486A0EF361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66AEB49-3E17-4EA1-A67C-70486A0EF361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66AEB49-3E17-4EA1-A67C-70486A0EF361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7493EB1E-6B84-44EE-B1F4-BC6DFD767E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7493EB1E-6B84-44EE-B1F4-BC6DFD767E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7493EB1E-6B84-44EE-B1F4-BC6DFD767E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7493EB1E-6B84-44EE-B1F4-BC6DFD767E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D52D94C-F99F-44D3-A7DF-97FB1E237787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D52D94C-F99F-44D3-A7DF-97FB1E237787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D52D94C-F99F-44D3-A7DF-97FB1E237787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D52D94C-F99F-44D3-A7DF-97FB1E237787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D4DBB4-638E-45B5-932D-63C297ADE521}
+	EndGlobalSection
+EndGlobal

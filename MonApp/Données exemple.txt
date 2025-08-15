@@ -1,0 +1,17 @@
+{
+  "nom": "Gâteau au yaourt",
+  "ingredients": "1 pot de yaourt nature, 2 pots de sucre, 3 pots de farine, 1/2 pot d'huile, 3 oeufs, 1 sachet de levure",
+  "instructions": "Dans un saladier, mélange le yaourt, la farine, la levure, les oeufs et l'huile. Verse dans un moule beurré. Enfourne 30 minutes à 180 dégré Celsus (th. 6). Vérifie la cuisson avec la pointe d'un couteau."
+}
+
+{
+  "nom": "Omelette aux champignos",
+  "ingredients": "3 oeufs, 100g de champignons de Paris, 1 échalote, beurre, sel, poivre",
+  "instructions": "Bats les oeufs dans le bol. Émince les champignos et l'échalote. Fais revenir le tout dans une poele avec un peu de beurre. Verse les oeufs battus, sale, poivre, et laisse cuire jusqu'à ce que l'omelette soit prise."
+}
+
+{
+  "nom": "Couscous mais et manioc",
+  "ingredients": "3 oeufs, 100g de champignons de Paris, 1 échalote, beurre, sl, poivre",
+  "instructions": "Farine de mais et manioc. Mélanger dabs une marmite et remuer 15min."
+}
