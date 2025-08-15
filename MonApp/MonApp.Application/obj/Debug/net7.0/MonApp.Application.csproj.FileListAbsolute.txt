@@ -1,0 +1,15 @@
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\bin\Debug\net7.0\MonApp.Application.deps.json
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\bin\Debug\net7.0\MonApp.Application.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\bin\Debug\net7.0\MonApp.Application.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\bin\Debug\net7.0\MonApp.Domaine.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\bin\Debug\net7.0\MonApp.Domaine.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.csproj.AssemblyReference.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.AssemblyInfoInputs.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.AssemblyInfo.cs
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.csproj.CoreCompileInputs.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.csproj.CopyComplete
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\refint\MonApp.Application.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\MonApp.Application.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Application\obj\Debug\net7.0\ref\MonApp.Application.dll

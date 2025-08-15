@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uYd45wBbYdUm2YxFDv1qGxJVjTyv3ri31TiIfrn6mT0=",
+  "Source": "MonApp.API",
+  "BasePath": "_content/MonApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\bin\Debug\net7.0\MonApp.Infrastructure.deps.json
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\bin\Debug\net7.0\MonApp.Infrastructure.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\bin\Debug\net7.0\MonApp.Infrastructure.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\bin\Debug\net7.0\MonApp.Domaine.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\bin\Debug\net7.0\MonApp.Domaine.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.AssemblyInfo.cs
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.csproj.CopyComplete
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\refint\MonApp.Infrastructure.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\ref\MonApp.Infrastructure.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\bin\Debug\net7.0\MonApp.Infrastructure.runtimeconfig.json
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Infrastructure\obj\Debug\net7.0\MonApp.Infrastructure.genruntimeconfig.cache

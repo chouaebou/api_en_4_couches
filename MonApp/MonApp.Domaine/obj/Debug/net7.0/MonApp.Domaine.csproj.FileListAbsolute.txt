@@ -1,0 +1,12 @@
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\bin\Debug\net7.0\MonApp.Domaine.deps.json
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\bin\Debug\net7.0\MonApp.Domaine.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\bin\Debug\net7.0\MonApp.Domaine.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\MonApp.Domaine.csproj.AssemblyReference.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\MonApp.Domaine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\MonApp.Domaine.AssemblyInfoInputs.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\MonApp.Domaine.AssemblyInfo.cs
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\MonApp.Domaine.csproj.CoreCompileInputs.cache
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\MonApp.Domaine.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\refint\MonApp.Domaine.dll
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\MonApp.Domaine.pdb
+D:\Developpement\C#\StructureProjetDotNetArchitectureCouches\MonApp\MonApp.Domaine\obj\Debug\net7.0\ref\MonApp.Domaine.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwnFAskY2Dt8/EDwJrPZHv5iVbVXNK7jT0V9Kg5A/0kgK0YJORHG9WPUTU+X8D9SUd3nL44j/x3vn1Hu14dLPw==",
+  "success": true,
+  "projectFilePath": "D:\\Developpement\\C#\\StructureProjetDotNetArchitectureCouches\\MonApp\\MonApp.Application\\MonApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
